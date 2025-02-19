@@ -1,2 +1,2 @@
 # Snake
-Et enkelt slangespill i javascript
+Et enkelt slangespill i javascript.
